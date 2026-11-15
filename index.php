@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registrar usuario</title>
+	<title>Guardar todos los usuarios</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
     <form method="post">
-    	<h1>¡Suscribete!</h1>
+    	<h1>¡Ya entra we</h1>
     	<input type="text" name="name" placeholder="Nombre completo">
     	<input type="email" name="email" placeholder="Email">
     	<input type="submit" name="register">
