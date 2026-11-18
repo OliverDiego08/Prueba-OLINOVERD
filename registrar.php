@@ -20,7 +20,7 @@ if (isset($_POST['register'])) {
 	    }
     }   else {
 	    	?> 
-	    	<h3 class="bad">¡Por favor complete los campos!</h3>
+	    	<h3 class="bad">¡Por favor complete los campos viejo wey!</h3>
            <?php
     }
 }
